@@ -1,3 +1,6 @@
 canvas {
-  background-color: rgb(133, 133, 236);
+  color: white;
+}
+body {
+  overflow: hidden; /* Hide scrollbars */
 }
